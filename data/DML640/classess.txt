@@ -1,0 +1,7 @@
+0	 background
+1	 car                    
+2	 construction-machine   
+3	 crusher                
+4	 human                  
+5	 pile                   
+6	 road                   
